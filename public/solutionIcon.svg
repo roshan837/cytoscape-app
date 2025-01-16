@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_716" data-name="Rectangle 716" width="24" height="24" transform="translate(1713 766)" fill="#33c276"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4555" data-name="Group 4555" transform="translate(651.5 -2233)">
+    <g id="Mask_Group_21" data-name="Mask Group 21" transform="translate(-2364.5 1467)" clip-path="url(#clip-path)">
+      <g id="Group_910" data-name="Group 910" transform="translate(-0.647 -3.673)">
+        <g id="Group_909" data-name="Group 909" transform="translate(1715.99 784.024)">
+          <path id="Path_476" data-name="Path 476" d="M0,0V8.013L2.654,5.249,5.418,8.013V0Z" transform="translate(4.007) rotate(30)" fill="#33c276"/>
+          <path id="Path_477" data-name="Path 477" d="M0,8.013V0L2.654,2.764,5.418,0V8.013Z" transform="translate(19.313 6.94) rotate(150)" fill="#33c276"/>
+        </g>
+        <circle id="Ellipse_305" data-name="Ellipse 305" cx="8.575" cy="8.575" r="8.575" transform="translate(1717.073 769.673)" fill="#33c276"/>
+      </g>
+    </g>
+    <path id="Path_check-bold" data-name="Path / check-bold" d="M5.377,11.355,2.79,8.767,3.969,7.588,5.377,9,9.494,4.88l1.179,1.179Z" transform="translate(-646.04 2233.645)" fill="#fff"/>
+  </g>
+</svg>

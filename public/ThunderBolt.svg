@@ -1,0 +1,7 @@
+<svg id="MDI_flash" data-name="MDI / flash" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Boundary" fill="#007772" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_flash" data-name="Path / flash" d="M7,2V13h3v9l7-12H13l4-8Z" transform="translate(0 0)" fill="#007772"/>
+</svg>

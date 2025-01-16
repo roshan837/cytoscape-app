@@ -1,0 +1,7 @@
+<svg id="MDI_help-rhombus-outline" data-name="MDI / help-rhombus-outline" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Boundary" fill="#007772" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_help-rhombus-outline" data-name="Path / help-rhombus-outline" d="M12.8,18.193h1.8v1.8H12.8v-1.8M14,7.937a3.509,3.509,0,0,1,2.735,5.829c-.5.6-1.307,1-1.715,1.511a2.51,2.51,0,0,0-.42,1.715H12.8a4.371,4.371,0,0,1,.42-2.471,7.006,7.006,0,0,1,1.7-1.355C16.394,11.812,16.01,9.9,14,9.748a1.807,1.807,0,0,0-1.8,1.811H10.4A3.614,3.614,0,0,1,14,7.937M14,2a2.4,2.4,0,0,0-1.691.708l-9.6,9.6a2.368,2.368,0,0,0,0,3.382l9.6,9.6a2.368,2.368,0,0,0,3.382,0l9.6-9.6a2.368,2.368,0,0,0,0-3.382l-9.6-9.6A2.4,2.4,0,0,0,14,2m0,2.4,9.6,9.6L14,23.59l-9.6-9.6Z" transform="translate(-1.993 -1.995)" fill="#007772"/>
+</svg>

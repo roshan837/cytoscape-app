@@ -1,0 +1,7 @@
+<svg id="MDI_timer-outline" data-name="MDI / timer-outline" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Boundary" fill="#00719f" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_timer-outline" data-name="Path / timer-outline" d="M12,20a7,7,0,1,1,7-7,7,7,0,0,1-7,7M19.03,7.39l1.42-1.42a14.436,14.436,0,0,0-1.41-1.41L17.62,6A8.863,8.863,0,0,0,12,4a9.015,9.015,0,1,0,7.03,3.39M11,14h2V8H11m4-7H9V3h6Z" transform="translate(0 1)" fill="#00719f"/>
+</svg>

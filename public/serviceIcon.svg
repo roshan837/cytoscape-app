@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_159623" data-name="Rectangle 159623" width="16" height="16" transform="translate(0 0)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3860" data-name="Mask Group 3860" clip-path="url(#clip-path)">
+    <g id="Group_8816" data-name="Group 8816" transform="translate(0.666 1.333)">
+      <rect id="Rectangle_159620" data-name="Rectangle 159620" width="5.576" height="5.576" rx="1" fill="#006c7c"/>
+      <rect id="Rectangle_159621" data-name="Rectangle 159621" width="5.576" height="5.576" rx="1" transform="translate(4.879 4.182)" fill="#006c7c"/>
+      <path id="Rectangle_5425_-_Outline" data-name="Rectangle 5425 - Outline" d="M.394-.3a.7.7,0,0,0-.7.7V4.576a.7.7,0,0,0,.7.7H4.576a.7.7,0,0,0,.7-.7V.394a.7.7,0,0,0-.7-.7H.394m0-.7H4.576A1.4,1.4,0,0,1,5.97.394V4.576A1.4,1.4,0,0,1,4.576,5.97H.394A1.4,1.4,0,0,1-1,4.576V.394A1.4,1.4,0,0,1,.394-1Z" transform="translate(5.182 4.485)" fill="#e6f0f8"/>
+      <rect id="Rectangle_159622" data-name="Rectangle 159622" width="5.576" height="5.576" rx="1" transform="translate(9.061 8.364)" fill="#006c7c"/>
+      <path id="Rectangle_5426_-_Outline" data-name="Rectangle 5426 - Outline" d="M.394-.3a.7.7,0,0,0-.7.7V4.576a.7.7,0,0,0,.7.7H4.576a.7.7,0,0,0,.7-.7V.394a.7.7,0,0,0-.7-.7H.394m0-.7H4.576A1.4,1.4,0,0,1,5.97.394V4.576A1.4,1.4,0,0,1,4.576,5.97H.394A1.4,1.4,0,0,1-1,4.576V.394A1.4,1.4,0,0,1,.394-1Z" transform="translate(9.364 8.667)" fill="#e6f0f8"/>
+    </g>
+  </g>
+</svg>

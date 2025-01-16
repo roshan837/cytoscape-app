@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="MDI_application-outline" data-name="MDI / application-outline" transform="translate(0 0.034)">
+    <g id="Boundary" transform="translate(0 -0.034)" fill="#007772" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="16" height="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="15" fill="none"/>
+    </g>
+    <path id="Path_application-outline" data-name="Path / application-outline" d="M14.636,2H2.364A1.386,1.386,0,0,0,1,3.4V14.6A1.386,1.386,0,0,0,2.364,16H14.636A1.386,1.386,0,0,0,16,14.6V3.4A1.386,1.386,0,0,0,14.636,2m0,12.6H2.364V4.8H14.636Z" transform="translate(-0.5 -2)" fill="#007772"/>
+  </g>
+</svg>

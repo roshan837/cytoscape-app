@@ -1,0 +1,7 @@
+<svg id="MDI_cloud" data-name="MDI / cloud" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Boundary" fill="#007772" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_cloud" data-name="Path / cloud" d="M19.35,10.03a7.5,7.5,0,0,0-14-2A6,6,0,0,0,6,20H19a4.991,4.991,0,0,0,.35-9.97Z" fill="#007772"/>
+</svg>
