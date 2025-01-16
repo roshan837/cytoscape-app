@@ -106,8 +106,8 @@ function getIcon(node) {
   const id = node.data().id.split('-')[1] - 1
   return `./${icon[id % icon.length]}.svg`;
 }
-function onButtonClick(data) {
-  console.log('Button clicked', data)
+function onButtonClick() {
+  console.log('Button clicked')
 }
 export function getTooltip(data) {
   const content = document.createElement('div')
@@ -117,9 +117,10 @@ export function getTooltip(data) {
       <div>
         <span>Label:</span> ${data.id} <br/>
         <span>Type:</span> ${data?.type ?? 'unknown'}<br/>
-        <button onClick=onButtonClick(node.data())>More</button>
+        <button>More</button>
       </div>
     </div>
   `
+  content.getElementsByTagName('button')[0].addEventListener('click', onButtonClick)
   return content
 }

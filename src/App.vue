@@ -47,7 +47,7 @@ function setCytoscape() {
     expandCueImage: "none",
     collapseCueImage: "collapse.svg"
   });
-  // api.collapseAll();
+  api.collapseAll();
 
   // expand on click
   cyGraph.nodes().on('click', (e) => {
