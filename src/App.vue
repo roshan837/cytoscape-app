@@ -38,7 +38,7 @@ function setCytoscape() {
       name: "fcose",
       animate: true,
       randomize: false,
-      fit: true
+      fit: false // avoid repositioning and zoom issues
     },
     fisheye: true,
     animate: true,
